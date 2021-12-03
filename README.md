@@ -11,18 +11,10 @@ Dataset memiliki jumlah total sebanyak 3852 image yang terdiri atas 3 kelas deng
 4. northern leaf blight : 958
 dataset : https://www.kaggle.com/abdallahalidev/plantvillage-dataset
 
-### Teknik Deep Learning yang digunakan
-
-
-
 ### Jurnal referensi 
 
 [Convolutional neural network for maize leaf disease image classification](http://journal.uad.ac.id/index.php/TELKOMNIKA/article/view/14840)
 
-### Cara Pengeksekusian Program
-
-* Download file .ipynb 
-* Buka di Notebook anda atau [google colabolatory](https://colab.research.google.com/) 
 
 ## Authors
 
