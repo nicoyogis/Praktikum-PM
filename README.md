@@ -15,6 +15,10 @@ dataset : https://www.kaggle.com/abdallahalidev/plantvillage-dataset
 
 [Convolutional neural network for maize leaf disease image classification](http://journal.uad.ac.id/index.php/TELKOMNIKA/article/view/14840)
 
+## Dataset Overview
+
+</br><img src="assets/dataset_overview.jpg" width="500"/>
+
 ### Proses Pengerjaan
 
 1. Balancing Data   *On Going*
