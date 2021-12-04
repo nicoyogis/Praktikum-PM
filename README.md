@@ -22,9 +22,10 @@ dataset : https://www.kaggle.com/abdallahalidev/plantvillage-dataset
 ### Proses Pengerjaan
 
 1. Balancing Data   *done*
-2. Modelling        *done*
-3. Augmentation     *done*
-4. Hparam           *On Going*
+2. Preprocessing    *done*
+3. Modelling        *done*
+4. Augmentation     *done*
+5. Hparam           *On Going*
 
 ## Authors
 
