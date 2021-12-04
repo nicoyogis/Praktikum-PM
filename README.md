@@ -17,6 +17,8 @@ dataset : https://www.kaggle.com/abdallahalidev/plantvillage-dataset
 
 ## Dataset Overview
 
+Splitting Dataset 80% 19% 1%
+
 </br><img src="assets/dataset_overview.jpg" width="500"/>
 
 ### Proses Pengerjaan
