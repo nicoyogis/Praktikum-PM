@@ -27,7 +27,8 @@ Splitting Dataset 80% 19% 1%
 2. Preprocessing    *done*
 3. Modelling        *done*
 4. Augmentation     *done*
-5. Hparam           *On Going*
+5. Hparam           *done*
+6. Pretrain model   *on going*
 
 ## Authors
 
