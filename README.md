@@ -28,7 +28,14 @@ Splitting Dataset 80% 19% 1%
 3. Modelling        *done*
 4. Augmentation     *done*
 5. Hparam           *done*
+>minus save model   *on going*
 6. Pretrain model   *on going*
+
+## Modul
+- [Modul 2](https://github.com/nicoyogis/Praktikum-PM/blob/main/code%20fix/modelling.ipynb)
+- [Modul 3](https://github.com/nicoyogis/Praktikum-PM/blob/main/code%20fix/augmentasi_mod3.ipynb)
+- [Modul 4](https://github.com/nicoyogis/Praktikum-PM/blob/main/code%20fix/modelling.ipynb)
+- [Modul 5](*on going*)
 
 ## Authors
 
