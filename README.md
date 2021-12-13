@@ -23,13 +23,13 @@ Splitting Dataset 80% 19% 1%
 
 ### Proses Pengerjaan
 
-1. Balancing Data   *done*
-2. Preprocessing    *done*
-3. Modelling        *done*
-4. Augmentation     *done*
-5. Hparam           *done*
->minus save model   *on going*
-6. Pretrain model   *on going*
+1. [x] Balancing Data   *done*:tada:
+2. [x] Preprocessing    *done*:tada:
+3. [x] Modelling        *done*:tada:
+4. [x] Augmentation     *done*:tada:
+5. [x] Hparam           *done*:tada:
+> minus save model   *on going*:runner:
+6. Pretrain model   *on going*:runner:
 
 ## Modul
 - [Modul 2](https://github.com/nicoyogis/Praktikum-PM/blob/main/code%20fix/modelling.ipynb)
