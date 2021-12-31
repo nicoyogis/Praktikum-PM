@@ -28,8 +28,8 @@ Splitting Dataset 80% 19% 1%
 3. [x] Modelling        *done*:tada:
 4. [x] Augmentation     *done*:tada:
 5. [x] Hparam           *done*:tada:
-> minus save model   *on going*:runner:
-6. Pretrain model   *on going*:runner:
+> minus save model   *done*:tada:
+6. Pretrain model   *done*:tada:
 
 ## Modul
 - [Modul 2](https://github.com/nicoyogis/Praktikum-PM/blob/main/code%20fix/modelling.ipynb)
