@@ -28,7 +28,6 @@ Splitting Dataset 80% 19% 1%
 3. [x] Modelling        *done*:tada:
 4. [x] Augmentation     *done*:tada:
 5. [x] Hparam           *done*:tada:
-> minus save model   *done*:tada:
 6. Pretrain model   *done*:tada:
 
 ## Modul
